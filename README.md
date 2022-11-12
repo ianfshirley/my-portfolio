@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Ian F. Shirley - Portfolio
 
-Make it your own! 
+https://ianfshirley-portfolio.netlify.app/
