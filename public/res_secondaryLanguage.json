@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ian F. Shirley. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Salut!",
+      "description": "Je m'appele Ian F. Shirley. Je suis un développeur de logiciels. J'adore concevoir, construire et réparer des choses, et j'ai une obsession pour chercher les réponses aux questions \"comment\" et \"pourquoi\". Je suis très analytique, et je suis motivé par le désir de trouver des solutions aux problèmes que je rencontre, et je ne suis pas d'accord avec la phrase en Anglais \"If it ain't broke, don't try to fix it\", parce que je pense qu'on peut toujours améliorer quelque'chose, même si ça marche déjà. Bref, j'aime trouver des moyens de maximiser l'efficacité.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "À Propos de Moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience"
       }
     },
     "projects": [
