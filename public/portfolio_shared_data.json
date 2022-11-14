@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Ian F. Shirley",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer | Designer" ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profpic.jpeg"
     },
     "skills": {
       "icons": [
