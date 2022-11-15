@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #547B84;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -51,6 +51,10 @@ header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+}
+
+.nav-links {
+	color: #D6BD85;
 }
 
 .github-corner:hover .octo-arm {
@@ -95,7 +99,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #04242C;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -415,7 +419,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #547B84;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
