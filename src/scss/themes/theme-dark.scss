@@ -11,7 +11,7 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #AE5D52;
       opacity: 0.8;
    }
 
@@ -33,10 +33,14 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      background-color: #460C04;
       h1 {
-         color: white;
+         color: #D68E85;
       }
+   }
+
+   .title-container {
+      color: #D68E85;
    }
 
    #about {
@@ -104,4 +108,10 @@ body[data-theme="dark"] {
    .close-icon {
       color: white;
    }
+
+   footer {
+      background-color: #460C04;
+   }
 }
+
+
