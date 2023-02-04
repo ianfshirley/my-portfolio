@@ -35,15 +35,23 @@
         ]
       },
       {
-        "title": "Salmon Cookies",
+        "title": "5 O'Clock Somewhere",
         "startDate": "2022",
         "description": "A project from Code 201 at Code Fellows. A website for a cookie shop, showing hours and addresses for various shop locations, as well as contact information. An additional 'Sales Data' page, where the owner can view cookie sales at each location broken down by the hour and by the day. The 'Sales Data' page also contains a form where the owner can enter sales data for new pop up locations to determine profitability for potential permanent new locations.",
         "images": [
-          "images/portfolio/salmon-cookies/salmon-cookies.png",
+          "images/portfolio/5-o-clock/1024px-Tiki-Cocktails.jpg",
           "images/portfolio/salmon-cookies/salmon-cookies2.png"
         ],
-        "url": "https://ianfshirley.github.io/cookie-stand/index.html",
+        "url": "https://5-o-clock.netlify.app/",
         "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
           {
             "class": "devicon-html5-plain",
             "name": "HTML5"
@@ -51,38 +59,34 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "301 Final Project Placeholder",
-        "startDate": "2022",
-        "description": "Details about the amazing project that I have yet to create. It's going to be so awesome, you won't even be able to believe it. ",
+        "title": "Stream Stats",
+        "startDate": "2023",
+        "description": "A Jupyter Notebook that allows users to display their Netflix user data ",
         "images": [
-          "images/portfolio/final-project-placeholder/p1.jpg",
+          "images/portfolio/stream-stats/stream-stats.png",
           "images/portfolio/final-project-placeholder/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://www.kaggle.com/code/keyantabor/stream-stats",
         "technologies": [
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-react-plain",
-            "name": "React"
+            "class": "devicon-jupyter-plain colored",
+            "name": "jupyter"
           },
           {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
+            "class": "devicon-matplotlib-plain",
+            "name": "matplotlib"
           },
           {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.js"
+            "class": "devicon-pandas-plain",
+            "name": "pandas"
           }
         ]
       }
@@ -91,7 +95,7 @@
       {
         "company": "Code Fellows",
         "title": "Software Developer",
-        "years": "10.2022 - present",
+        "years": "10.2022 - 2.2023",
         "mainTech": [
           "Python"
         ],
