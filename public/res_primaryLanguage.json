@@ -68,7 +68,7 @@
         "description": "A Jupyter Notebook that allows users to display their Netflix user data ",
         "images": [
           "images/portfolio/stream-stats/stream-stats.png",
-          "images/portfolio/final-project-placeholder/p2.jpg"
+          "images/portfolio/stream-stats/stream-stats2.png"
         ],
         "url": "https://www.kaggle.com/code/keyantabor/stream-stats",
         "technologies": [
@@ -77,16 +77,8 @@
             "name": "Python"
           },
           {
-            "class": "devicon-jupyter-plain colored",
+            "class": "devicon-jupyter-plain-wordmark",
             "name": "jupyter"
-          },
-          {
-            "class": "devicon-matplotlib-plain",
-            "name": "matplotlib"
-          },
-          {
-            "class": "devicon-pandas-plain",
-            "name": "pandas"
           }
         ]
       }
