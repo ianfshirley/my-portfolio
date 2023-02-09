@@ -37,10 +37,10 @@
       {
         "title": "5 O'Clock Somewhere",
         "startDate": "2022",
-        "description": "A project from Code 201 at Code Fellows. A website for a cookie shop, showing hours and addresses for various shop locations, as well as contact information. An additional 'Sales Data' page, where the owner can view cookie sales at each location broken down by the hour and by the day. The 'Sales Data' page also contains a form where the owner can enter sales data for new pop up locations to determine profitability for potential permanent new locations.",
+        "description": "Have you ever been sitting at home and craving a cocktail, but don't know what to make? Come check out our site! It will allow users to enter ingredients they have in their home bar, either alcohol or mixers, and it will return a list of cocktails you can make using the indgredients you have on hand. The site will also allow users to sign in and save the list of items in their bar.",
         "images": [
           "images/portfolio/5-o-clock/1024px-Tiki-Cocktails.jpg",
-          "images/portfolio/salmon-cookies/salmon-cookies2.png"
+          "images/portfolio/5-o-clock/5-o-clock.png"
         ],
         "url": "https://5-o-clock.netlify.app/",
         "technologies": [
