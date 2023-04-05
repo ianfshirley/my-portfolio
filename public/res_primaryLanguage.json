@@ -63,14 +63,15 @@
         ]
       },
       {
-        "title": "Stream Stats",
+        "title": "JobHuntHQ",
         "startDate": "2023",
-        "description": "A Jupyter Notebook that allows users to display their Netflix user data ",
+        "description": "Welcome to JobHuntHQ, your one-stop solution to managing and organizing your job search journey. This application is designed to help users keep track of their job applications in a simple, efficient, and user-friendly manner.",
         "images": [
-          "images/portfolio/stream-stats/stream-stats.png",
-          "images/portfolio/stream-stats/stream-stats2.png"
+          "images/portfolio/job-hunt-hq/JobHuntHQ-landing-page.png",
+          "images/portfolio/job-hunt-hq/AddJobScreenshot.png",
+          "images/portfolio/job-hunt-hq/JobListScreenshot.png"
         ],
-        "url": "https://www.kaggle.com/code/keyantabor/stream-stats",
+        "url": "https://job-hunt-hq.vercel.app/",
         "technologies": [
           {
             "class": "devicon-python-plain",
